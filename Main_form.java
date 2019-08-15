@@ -7,8 +7,9 @@ public class Main_form {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
+	
 		StringTokenizer st = new StringTokenizer(br.readLine());
+			
 		
 		
 	}
